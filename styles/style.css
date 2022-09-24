@@ -23,7 +23,6 @@ img {
     float: right;
     width: 50%;
     padding: 100px 100px 0 0;
-    line-height: 35px;
 }
 
 .picture {
@@ -32,8 +31,19 @@ img {
     padding: 10px 0 0 100px;
 }
 
+button {
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 10%;
+    border: .5px solid black;
+    display: block;
+    margin: 0 auto;
+}
+
 p {
     text-align: left;
+    font-weight: 600;
+    line-height: 30px;
 }
 
 span {
